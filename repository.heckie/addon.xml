@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.xbmcadult" name="heckies Kodi addons" version="1.0.6" provider-name="heckie">
+<addon id="repository.heckie" name="Heckies Kodi addons" version="1.0.6" provider-name="heckie">
 	<extension point="xbmc.addon.repository" name="heckies Kodi addons">
 		<info compressed="false">http://www.heckie.de/kodi-addons/addons.xml</info>
 		<checksum>http://www.heckie.de/kodi-addons/addons.xml.md5</checksum>
